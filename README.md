@@ -2,7 +2,7 @@
   <h1>💰 Tip Calculator</h1>
   <p>A simple and efficient tip calculator built with HTML, JavaScript, and TailwindCSS.</p>
   <p>
-    <a href="#">Preview: Coming Soon</a>
+    <p>Preview: <a href="https://tip-calculator-denislav.vercel.app">https://tip-calculator-denislav.vercel.app</a></p>
   </p>
   <img src="https://img.shields.io/badge/TailwindCSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
